@@ -22,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0002-add-two-numbers) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
 ## Simulation
 |  |
@@ -34,5 +35,10 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
