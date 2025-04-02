@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0001-two-sum) |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3429-special-array-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3429-special-array-i) |
@@ -56,6 +57,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +101,16 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
