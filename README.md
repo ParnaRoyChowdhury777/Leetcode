@@ -138,4 +138,8 @@
 | ------- |
 | [0136-single-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1837-daily-leads-and-partners](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1837-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
