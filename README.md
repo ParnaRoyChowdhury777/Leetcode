@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
@@ -162,4 +163,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
