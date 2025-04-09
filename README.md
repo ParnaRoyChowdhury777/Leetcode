@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 | [0048-rotate-image](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Counting
