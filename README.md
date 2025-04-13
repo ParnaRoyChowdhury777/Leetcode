@@ -136,6 +136,7 @@
 | [0189-rotate-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -153,11 +154,13 @@
 | [0148-sort-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
@@ -171,6 +174,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
@@ -180,6 +184,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 ## Binary Search
 |  |
