@@ -48,6 +48,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3429-special-array-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3429-special-array-i) |
+| [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
@@ -148,6 +149,7 @@
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
+| [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Segment Tree
 |  |
 | ------- |
