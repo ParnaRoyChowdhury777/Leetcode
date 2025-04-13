@@ -48,6 +48,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3429-special-array-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3429-special-array-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0054-spiral-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
