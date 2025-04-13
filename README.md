@@ -49,6 +49,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
+| [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
 | [3429-special-array-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -162,6 +164,7 @@
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
