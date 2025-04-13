@@ -48,6 +48,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3429-special-array-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3429-special-array-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -61,6 +62,7 @@
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3817-maximum-containers-on-a-ship](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Simulation
 |  |
@@ -84,6 +86,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
