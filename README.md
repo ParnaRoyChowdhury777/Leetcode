@@ -32,6 +32,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
@@ -230,6 +231,7 @@
 | [0053-maximum-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Union Find
 |  |
 | ------- |
