@@ -47,6 +47,7 @@
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -72,6 +73,7 @@
 | [0189-rotate-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
@@ -276,4 +278,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0493-reverse-pairs) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
