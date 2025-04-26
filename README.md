@@ -42,6 +42,7 @@
 | [0283-move-zeroes](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
@@ -178,6 +179,7 @@
 | [0229-majority-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0506-relative-ranks](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0506-relative-ranks](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0506-relative-ranks) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
