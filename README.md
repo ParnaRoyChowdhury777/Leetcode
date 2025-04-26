@@ -49,6 +49,7 @@
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -161,6 +163,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
@@ -182,6 +185,7 @@
 | [0506-relative-ranks](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
@@ -227,6 +231,7 @@
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
