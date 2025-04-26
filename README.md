@@ -49,6 +49,7 @@
 | [0817-design-hashmap](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0817-design-hashmap) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -203,6 +204,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
