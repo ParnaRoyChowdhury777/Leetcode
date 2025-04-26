@@ -63,6 +63,7 @@
 | [2398-check-if-matrix-is-x-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
@@ -117,6 +118,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -179,6 +181,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
@@ -207,6 +210,7 @@
 | [2283-sort-even-and-odd-indices-independently](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2561-number-of-distinct-averages](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3334-apple-redistribution-into-boxes) |
