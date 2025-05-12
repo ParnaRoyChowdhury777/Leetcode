@@ -271,6 +271,7 @@
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1837-daily-leads-and-partners](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1837-daily-leads-and-partners) |
 ## Hash Function
 |  |
