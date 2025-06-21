@@ -54,6 +54,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -266,6 +267,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
