@@ -62,6 +62,7 @@
 | [1582-design-browser-history](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1582-design-browser-history) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -274,6 +275,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
