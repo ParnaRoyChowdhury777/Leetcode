@@ -291,6 +291,7 @@
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0197-rising-temperature) |
 | [0610-triangle-judgement](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0619-biggest-single-number) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
