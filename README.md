@@ -292,6 +292,7 @@
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0610-triangle-judgement](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0619-biggest-single-number) |
 | [1837-daily-leads-and-partners](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1837-daily-leads-and-partners) |
 ## Hash Function
 |  |
