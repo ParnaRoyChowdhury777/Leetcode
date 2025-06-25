@@ -301,6 +301,7 @@
 | [1179-game-play-analysis-i](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1837-daily-leads-and-partners) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Function
 |  |
 | ------- |
