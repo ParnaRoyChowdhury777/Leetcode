@@ -305,6 +305,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1837-daily-leads-and-partners](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1837-daily-leads-and-partners) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Function
 |  |
