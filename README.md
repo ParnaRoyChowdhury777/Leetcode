@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -185,6 +186,7 @@
 | [0234-palindrome-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0392-is-subsequence](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -322,6 +324,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Union Find
 |  |
