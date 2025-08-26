@@ -101,6 +101,7 @@
 | [0189-rotate-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0441-arranging-coins) |
 | [0593-valid-square](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0593-valid-square) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -282,6 +283,7 @@
 | [0268-missing-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0792-binary-search) |
