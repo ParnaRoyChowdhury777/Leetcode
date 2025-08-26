@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0724-find-pivot-index) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2102-find-the-middle-index-in-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Array
 |  |
@@ -79,6 +80,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2102-find-the-middle-index-in-array](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
