@@ -73,6 +73,7 @@
 | [1646-kth-missing-positive-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -291,6 +292,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -348,6 +350,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
