@@ -109,6 +109,7 @@
 | [0593-valid-square](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/0593-valid-square) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3321-type-of-triangle) |
 | [3568-find-the-key-of-the-numbers](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -142,6 +143,7 @@
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2561-number-of-distinct-averages](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2634-minimum-common-value) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2892-check-if-array-is-good](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3227-find-missing-and-repeated-values](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ParnaRoyChowdhury777/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
